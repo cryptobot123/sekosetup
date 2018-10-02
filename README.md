@@ -6,7 +6,7 @@ Shell script to install a [SekoPay Masternode](https://www.sekopay.com) on a Lin
 
 ## Installation
 ```
-wget https://raw.githubusercontent.com/Revolutionary1976/sekosetup/blob/master/install.sh
+wget https://raw.githubusercontent.com/Revolutionary1976/sekosetup/master/install.sh
 ```
 ```
 chmod +x install.sh
@@ -59,7 +59,7 @@ seko-cli masternode count  #To check masternode list
 
 ## Installation
 ```
-wget -q https://raw.githubusercontent.com/Revolutionary1976/sekosetup/blob/master/install.sh
+wget -q https://raw.githubusercontent.com/Revolutionary1976/sekosetup/master/seko-mn.sh
 ```
 ```
 bash seko-mn.sh
